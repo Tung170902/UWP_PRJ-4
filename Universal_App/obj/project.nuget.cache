@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BI4ShHr6PcRM3fKuU1tEZpy0Ijp2t/ZMRalYeu9HV0OLYylFwF2mSYCATGqLHlVgZpTNSjMJ0pqZrztZeapuFw==",
+  "dgSpecHash": "q9fsl9Pcr+s/Js3j8ytFhIlxtMJsXsVEkQc9rkn21qL4Pujh+Bz6B+r7TGXANp7LDEFzRGqPHKztR6RmhOEpng==",
   "success": true,
-  "projectFilePath": "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\Universal_App.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\Universal_App.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

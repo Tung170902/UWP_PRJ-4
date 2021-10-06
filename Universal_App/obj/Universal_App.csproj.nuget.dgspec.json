@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\Universal_App.csproj": {}
+    "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\Universal_App.csproj": {}
   },
   "projects": {
-    "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\Universal_App.csproj": {
+    "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\Universal_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\Universal_App.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\Universal_App.csproj",
         "projectName": "Universal_App",
-        "projectPath": "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\Universal_App.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\T2008M\\T2008M\\Universal_App\\Universal_App\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\Universal_App.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\UWP_PRJ-4\\Universal_App\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +27,7 @@
           "uap10.0.17763"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "uap10.0.17763": {

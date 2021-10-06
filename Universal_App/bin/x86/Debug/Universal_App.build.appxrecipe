@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>PHU</Machine>
-    <WindowsUser>Admin</WindowsUser>
+    <Machine>LAPTOP-H4EFGU93</Machine>
+    <WindowsUser>user</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c303abb9-92a5-4dd9-ace5-9de4446960d1</PackageIdentityName>
     <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\T2008M\T2008M\Universal_App\Universal_App\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\Universal_App.exe">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\Universal_App.exe">
       <PackagePath>entrypoint\Universal_App.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,76 +34,55 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\Universal_App.xr.xml">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\Universal_App.xr.xml">
       <PackagePath>Universal_App.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Collection.xbf">
-      <PackagePath>pages\Collection.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Customerpage.xbf">
-      <PackagePath>pages\Customerpage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Delivery.xbf">
-      <PackagePath>pages\Delivery.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Eat_inpage.xbf">
-      <PackagePath>pages\Eat_inpage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Home.xbf">
-      <PackagePath>pages\Home.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\PageApp.xbf">
-      <PackagePath>pages\PageApp.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Payment.xbf">
-      <PackagePath>pages\Payment.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\pages\Take_away.xbf">
-      <PackagePath>pages\Take_away.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\Practical\BlankPage1.xbf">
+      <PackagePath>Practical\BlankPage1.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\T2008M\T2008M\Universal_App\Universal_App\bin\x86\Debug\Core\Universal_App.exe">
+    <AppxPackagedFile Include="C:\Users\user\source\repos\UWP_PRJ-4\Universal_App\bin\x86\Debug\Core\Universal_App.exe">
       <PackagePath>Universal_App.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

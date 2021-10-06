@@ -124,29 +124,8 @@
     </Compile>
     <Compile Include="Model\item_menu.cs" />
     <Compile Include="Model\Product.cs" />
-    <Compile Include="pages\Collection.xaml.cs">
-      <DependentUpon>Collection.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Customerpage.xaml.cs">
-      <DependentUpon>Customerpage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Delivery.xaml.cs">
-      <DependentUpon>Delivery.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Eat_inpage.xaml.cs">
-      <DependentUpon>Eat_inpage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Home.xaml.cs">
-      <DependentUpon>Home.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\PageApp.xaml.cs">
-      <DependentUpon>PageApp.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Payment.xaml.cs">
-      <DependentUpon>Payment.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="pages\Take_away.xaml.cs">
-      <DependentUpon>Take_away.xaml</DependentUpon>
+    <Compile Include="Practical\BlankPage1.xaml.cs">
+      <DependentUpon>BlankPage1.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -174,35 +153,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="pages\Collection.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Customerpage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Delivery.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Eat_inpage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Home.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\PageApp.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Payment.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="pages\Take_away.xaml">
+    <Page Include="Practical\BlankPage1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

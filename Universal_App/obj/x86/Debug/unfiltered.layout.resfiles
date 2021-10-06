@@ -8,13 +8,6 @@ Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 MainPage.xbf
-pages\Collection.xbf
-pages\Customerpage.xbf
-pages\Delivery.xbf
-pages\Eat_inpage.xbf
-pages\Home.xbf
-pages\PageApp.xbf
-pages\Payment.xbf
-pages\Take_away.xbf
+Practical\BlankPage1.xbf
 Universal_App.xr.xml
 Properties\Default.rd.xml

@@ -8,8 +8,8 @@ namespace Universal_App.Model
 {
     class item_menu
     {
-       public string name { set; get; }
-        public string page { set; get; }
-        public string icon { set; get; }
+        public string Name { get; set; }
+        public string Image { get; set; }
+        public string Description { get; set; }
     }
 }
